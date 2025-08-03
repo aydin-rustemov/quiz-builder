@@ -112,7 +112,7 @@ The .env.local file should point to your local backend API URL.
 
 .env.local
 
-NEXT_PUBLIC_API_BASE_URL=http://localhost:5000/api
+NEXT_PUBLIC_API_BASE_URL=http://localhost:5000
 4. Running the Application
 Start the Backend Server (in the /backend directory):
 
