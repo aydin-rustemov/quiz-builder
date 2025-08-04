@@ -24,7 +24,7 @@ Delete Quizzes: Remove quizzes directly from the dashboard.
 Backend
 Runtime: Node.js
 
-Framework: Express.js / Nest.js (Hansını istifadə etmisinizsə qeyd edin)
+Framework: Express.js
 
 Language: TypeScript
 
@@ -39,11 +39,10 @@ Library: React.js
 
 Language: TypeScript
 
-Styling: Tailwind CSS / CSS Modules (Hansını istifadə etmisinizsə qeyd edin)
+Styling: Tailwind CSS 
 
 Code Quality: ESLint & Prettier
 
-"Getting Started" bölməsini bununla əvəz edin:
 🚀 Getting Started
 Follow these instructions to set up and run the project locally.
 
